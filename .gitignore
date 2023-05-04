@@ -1,0 +1,4 @@
+*.cut
+*run.xml
+*cv.synctex.gz
+/.vscode
